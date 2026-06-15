@@ -9,6 +9,8 @@ An automated for Gramnetwork supporting multiple accounts with parallel mining a
 - Live countdown for each account's mining time
 - Auto claim & restart mining when time is up
 
+## Register
+- You can register using this [Link Register](https://t.me/Gramnetwork_bot?startapp=2113168134)
 ## Requirements
 
 - Python 3.8 or higher
